@@ -1,12 +1,12 @@
 ![Blue Geometric Technology GitHub Banner](https://github.com/DanilaRamos/DanilaRamos/assets/104326333/24fed378-8963-417b-a59a-e5fa887d80e4)
 
-### Olá, eu sou a Danila! 👋👱‍♀️💻
+### Olá, eu sou a Danila! 👋👩‍🦰💻
 
 ***
 
 #### Sobre mim:
 
-* 👩‍🦰 Sou estudante de Análise e Desenvolvimento de Sistemas na [Anhembi Morumbi](https://portal.anhembi.br)
+* 👩‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na [Anhembi Morumbi](https://portal.anhembi.br)
 * 💻 Sou formada em de Desenvolvimento Web na [Laboratória](https://www.laboratoria.la/br)
 * ⚛️ React | JavaScript | Css | Html5 | Node.Js
 * 📝 Amo aprender
