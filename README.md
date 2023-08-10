@@ -8,7 +8,7 @@
 
 * 👩‍🦰 Sou estudante de Análise e Desenvolvimento de Sistemas na [Anhembi Morumbi](https://portal.anhembi.br)
 * 💻 Sou formada em de Desenvolvimento Web na [Laboratória](https://www.laboratoria.la/br)
-* ⚛️ JavaScript | Css | Html5 | Node.Js
+* ⚛️ React | JavaScript | Css | Html5 | Node.Js
 * 📝 Amo aprender
 * ✨ Estou em transição de carreira
 * 🏆 Meu foco é ser uma Dev de sucesso
