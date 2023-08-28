@@ -13,40 +13,26 @@
 * ✨ Estou em transição de carreira
 * 🏆 Meu foco é ser uma Dev de sucesso
 * 🐱 Mãe de gato
-* 📫 Como chegar até mim: [Linkedin](https://www.linkedin.com/in/danila-ramos)
+
+#### Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/danila-ramos/)
  
  ***
  
  #### Linguagens e ferramentas:
- </br>
-  <div> 
-  
-  <img alt="Node" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> 
-  <img alt="Css3 height="30" width="30" src="https://www.seekpng.com/png/detail/141-1415372_css3-icon-png.png"/>
-  <img alt="Free Html5 Icon" height="30" width="50" src="https://www.freeiconspng.com/uploads/html5-icon-2.png"/> 
-  <img alt="Rafa-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img alt="git" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="vscode" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- 
- <br>
-    
-</div>
-                                                                                                                            
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+                                                                                    
 *** 
-                                                                                                                            
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+
+***
+
+#### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanilaRamos&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
 🚀 Rumo ao sucesso!!!
-                                                                                                                            
-<!--
-**DanilaRamos/DanilaRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-####Sobre mim:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
