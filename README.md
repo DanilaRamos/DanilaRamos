@@ -8,7 +8,7 @@
 
 * 👩‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na [Anhembi Morumbi](https://portal.anhembi.br)
 * 💻 Sou formada em Desenvolvimento Web na [Laboratória](https://www.laboratoria.la/br)
-* ⚛️ React | JavaScript | Css | Html5 | Node.Js
+* ⚛️ React | Angular | JavaScript | Css | Html5 | Node.Js
 * 📝 Amo aprender
 * ✨ Estou em transição de carreira
 * 🏆 Meu foco é ser uma Dev de sucesso
@@ -28,6 +28,8 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
 ***
 
